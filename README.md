@@ -6,7 +6,7 @@
 |-----------------------------------------|
 
 
-This is SOC project for implementing opensource riscv core on Efabless Shuttle. Verilog core belongs ultraembedeed team.
+This is SOC project for implementing opensource riscv core on Efabless Shuttle. Verilog core belongs ultraembedded team.
 You can visit https://github.com/ultraembedded/riscv/
 
 
