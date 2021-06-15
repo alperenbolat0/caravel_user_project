@@ -5,6 +5,11 @@
 | :exclamation: Important Note            |
 |-----------------------------------------|
 
+
+This is SOC project for implementing opensource riscv core on Efabless Shuttle. Verilog core belongs ultraembedeed team.
+You can visit https://github.com/ultraembedded/riscv/
+
+
 ## Please fill in your project documentation in this README.md file 
 
 
